@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 1900,
+  "expoServerNgrokUrl": "https://gw-haj.anonymous.meuapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.gw-haj.anonymous.meuapp.exp.direct",
+  "ngrokPid": 1864
+}
