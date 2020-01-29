@@ -1,11 +1,12 @@
-# Oswald
+# Repositorio de Aplicaçõe que estou desenvolvendo junto ao curso
 
-Essa Aplicação é só um hello world
-onde tem um label escrito "fala galera!"
+Essa uma lista de Aplicações que fiz acompanhando o curso de React-Native onde aprendo tudo do zero ao avançado desde conceitos javascript como a criacao de aplicativos em React-Native ate a publicação na loja!
 
 ## Observação:
-- Python 3.7
-- Biblioteca Tkinter, não nescessita instalação só a instalação do python.
+- React-Native
+- Components Flatlist, Text, Image, Slider, Modal, Scrolview...
+- Uso de Array e api
+- banco de dados SQL e NoSql
 - Desenvolvido em Windowns SO
 
 
@@ -18,4 +19,4 @@ onde tem um label escrito "fala galera!"
 
 ## Imagem:
 
-<img src="https://lh3.googleusercontent.com/_ggUY0jx4ZPSSxjkLlD67lP0LcSOQ4fVqnLmjQUJOJAXn-SOg50F_ePfJbfSSwoJMPlMR6lhHWbia4AFI630A26KBHyF5FVg_5tZq_WzcFuqIW2tso5q6NksM1S3OJJpiXbidUr8O_ywcT5UMS3m-_JRpSjgof9rzy8SMKXHiuRfFy6wBlOcDPEG1DhqwI17BtnUjA221Re_t6NkF0LBNp1Kw4k8ISsZFeYtqaVzf1bC-fdauC8bkjJUwdjvuuhv9DEybinj6KqXOxiW1LTxJeJGB2qIPtUnE5KZTmUhwzUbrZqoFjQCZgd38Y6wagqVxFMAYofpAtiMG0eYRDOQY1tvS4729ewdRUWthgmqCuaSUweodgRvFyoPTLrb4m1T4oEw4Iru8PHIwjH65RIaW8dhou-DW4SdGnyL5oqjEIYydj8z648atiVksPS59GQ3vc6sZIJIbE_wzARuY-iHdub75f_xfRUNXHIwLYAQiHeW9n3XA6BLAji0YAgaC7L4v-g1UkPnFCFrVU3XxL7oUcNww-Vw5e_-MmVcHYUhlvc0yZEG3lP2XZz_I8TB21WZg_DRbc3_tNCTi-Yzc2LzFl_ncoSfSNsYjS8v5Hs3nkRHfy3A30P_G2sJ2-thKSBXuNK_qAGUeNYyKCmNNebLWJGV9eHXLdXNa-Igl8jpzx0DJdqzZsNkh-I=w354-h243-no" alt="Print da aplicação sendo executada" height="400" width="400">
+<img src="https://lh3.googleusercontent.com/3pGXv_FLeigFW6lYy9SMWXDc6hoGihWD4pRsasyaWC9AJtNgLwOwXbmkCRqqhV5lFQxUo-jnQs-G8wfez7liOZ2EQpO0RMBLB2obfNA36hYOoGakff5lQokErxPYD90I4gFk-hzpQwWMvarzFje3hwpye_ce3s2xy0nr19_EIAX4QFZeCp9E4v6EUWDn-0cTWHlxtlmUp8c4aq4bMg-3QjcTq_UTykzpIlvayTwdUErxq2Ok_bQxdmSviJ1BNEgSIPACsTY7NywRfvrijhBT2IaUp4SlRgP-7EH0BAq1WTM9iUc1hmueZBv8gxRsrdoq7YqXlL9HKSs5lVbRvPmYKjhcFl-jQgelm8BiuxdnR5Ut80yDm4y2LzPElkRPMMXxJPD7sx6m6c9fksNBCbkMKKaRXO-BHL4wxHSRFn6Vduqtz231jToO5f0et3sum5LS1T3G2iGFh8wgIHEG_dX9cmG73apukze1SQ6C8v9zyyQ4Dpwkl0Iavq7hgug8IUIVxj9b70vywqsdfuaZ8c5gkXAeTARtJjhBqIZnCcDmMm-oOA3hbluXHMCIgDjlJL1QAyOXJDScMMQ_be-rTtTcgroOU0khbvh06SkjgQjwQRIwW40VO_dwjK0_ijKIJx8gLbr67bZJGx8Dlo22bnrSKpJ7PWZwr1ZjlTr2fd1KRs-s71caSxg4BG4=w1020-h697-no" alt="Print da aplicação sendo executada" height="400" width="400">
