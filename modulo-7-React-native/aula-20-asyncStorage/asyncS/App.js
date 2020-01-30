@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
      },
      texto:{
        textAlign:'center',
-       fontSize:25,
+       fontSize:30,
      },
      viewInput:{
        flexDirection:'row',
