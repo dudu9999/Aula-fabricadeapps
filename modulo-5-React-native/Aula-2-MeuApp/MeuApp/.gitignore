@@ -12,3 +12,9 @@ web-report/
 
 # macOS
 .DS_Store
+
+.expo-shared
+.expo
+yarn.lock
+package.json
+babel.config.js
