@@ -1,0 +1,9 @@
+npm install react-navigation?
+
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens@^1.0.0-alpha.23
+
+npm install react-navigation-stack --save
+ou
+npm install react-navigation-tabs --save (verificar se ta certo)
+ou
+npm install react-navigation-drawer --save (verificar se ta certo)
